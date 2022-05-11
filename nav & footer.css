@@ -1,4 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Passions+Conflict&family=Saira:wght@100&display=swap');
+:root{
+    --FontColor: white;
+    --logoFont:'Passions Conflict', cursive;
+    ;
+}
 header{
-    height: 7vh;
-    background-color: rgb(30, 30, 192);
+    height: 10vh;
+    background-color: rgba(65, 65, 206, 0.972);
+    color: var(--FontColor);
+    font-family: 'Saira', sans-serif;
+    font-weight: bolder;
+}
+nav{
+    /* background-color: brown; */
+    height: 11vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 3vw;
+}
+#logo{
+    font-family: var(--logoFont);
+    font-size: 3.2em;
+    font-weight: normal;
+}
+#menu{
+    display: flex;
+    list-style: none;
+    border-radius: 6px;
+    word-spacing: 2px;
+}
+#menu li{
+    margin: 0.7vw 1vw;
+    position: relative;
+}
+.fa {
+    font-size: 1.5em!important;
+}
+#iconNumber{
+    position: absolute;
+    top: -19px;
+    left: 0;
+    color:rgb(241, 144, 109) ;
 }

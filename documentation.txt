@@ -1,5 +1,9 @@
 11.05.2022 // Mahmood
 
 1- created separated CSS File for Nav and Footer.
+// font color : white.
+//Font family Logo : Passions Conflict;
+// Font Family Header : Saira;
 2- created a main CSS File and linked it to Index.html.
+3- added Bootstrap link and Font Awesome cdn link.
   
