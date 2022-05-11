@@ -1,0 +1,5 @@
+11.05.2022 // Mahmood
+
+1- created separated CSS File for Nav and Footer.
+2- created a main CSS File and linked it to Index.html.
+  
