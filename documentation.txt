@@ -4,6 +4,7 @@
 // font color : white.
 //Font family Logo : Passions Conflict;
 // Font Family Header : Saira;
+header and Footer Background Color : rgba(65, 65, 206, 0.972).
 2- created a main CSS File and linked it to Index.html.
 3- added Bootstrap link and Font Awesome cdn link.
   
